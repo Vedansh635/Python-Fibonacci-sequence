@@ -21,4 +21,4 @@ def fibonacci(n):
 
 i = int(input("Enter the number: "))
 print(fibonacci(i))  # prints the list of Fibonacci numbers up to the given number
-# All code is written by me , except comments .
+# NOTE: All code is written by me , except comments .
